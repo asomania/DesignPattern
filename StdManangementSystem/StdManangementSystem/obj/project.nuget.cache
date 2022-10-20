@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9qBtRev2ekz8CTjUW5REjTsBYnV+LrIeyj910SL/54/EZPGlAz9g1rUhB+9ADO39CF7fXGFRPGiEsz4gwSWbYg==",
+  "dgSpecHash": "9gEy6Y6VS93bVg3tSWtIBs8RE1OYkzkBGI2GsiGOnIWJmtLCPN/vYa5ZPuA5YgwVlWrSbOKtDS65mIMwq9aNTQ==",
   "success": true,
-  "projectFilePath": "C:\\projects\\StdManangementSystem\\StdManangementSystem\\StdManangementSystem.csproj",
+  "projectFilePath": "C:\\projects\\DesignPattern\\StdManangementSystem\\StdManangementSystem\\StdManangementSystem.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

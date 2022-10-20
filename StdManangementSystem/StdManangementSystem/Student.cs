@@ -8,6 +8,22 @@ namespace StdManangementSystem
 {
     public class Student
     {
-        
+        private string StudentID;
+        private string Name;
+        private string Major;
+        private string Gender;
+        private DateTime DOB;
+        private string Email;
+        private string Address;
+        private string ContactNo;
+
+        public void CreateStudent(String StudentID)
+        {
+            /***/
+        }
+        public void GetStudentInfo()
+        {
+            /***/       
+        }
     }
 }

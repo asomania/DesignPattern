@@ -6,9 +6,14 @@ using System.Threading.Tasks;
 
 namespace StdManangementSystem
 {
-    public class Student
+    public class Student : Person
     {
-        private string StudentID;
+        prop
+    }
+}
+
+/*
+ private string StudentID;
         private string Name;
         private string Major;
         private string Gender;
@@ -19,11 +24,10 @@ namespace StdManangementSystem
 
         public void CreateStudent(String StudentID)
         {
-            /***/
+
         }
         public void GetStudentInfo()
         {
-            /***/       
-        }
-    }
-}
+           
+        } 
+*/

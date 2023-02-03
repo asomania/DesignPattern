@@ -1,0 +1,15 @@
+C:\Users\erenk\Desktop\Eren\project\ytm\butler\butler\obj\Debug\net6.0\butler.csproj.AssemblyReference.cache
+C:\Users\erenk\Desktop\Eren\project\ytm\butler\butler\obj\Debug\net6.0\butler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erenk\Desktop\Eren\project\ytm\butler\butler\obj\Debug\net6.0\butler.AssemblyInfoInputs.cache
+C:\Users\erenk\Desktop\Eren\project\ytm\butler\butler\obj\Debug\net6.0\butler.AssemblyInfo.cs
+C:\Users\erenk\Desktop\Eren\project\ytm\butler\butler\obj\Debug\net6.0\butler.csproj.CoreCompileInputs.cache
+C:\Users\erenk\Desktop\Eren\project\ytm\butler\butler\bin\Debug\net6.0\butler.exe
+C:\Users\erenk\Desktop\Eren\project\ytm\butler\butler\bin\Debug\net6.0\butler.deps.json
+C:\Users\erenk\Desktop\Eren\project\ytm\butler\butler\bin\Debug\net6.0\butler.runtimeconfig.json
+C:\Users\erenk\Desktop\Eren\project\ytm\butler\butler\bin\Debug\net6.0\butler.dll
+C:\Users\erenk\Desktop\Eren\project\ytm\butler\butler\bin\Debug\net6.0\butler.pdb
+C:\Users\erenk\Desktop\Eren\project\ytm\butler\butler\obj\Debug\net6.0\butler.dll
+C:\Users\erenk\Desktop\Eren\project\ytm\butler\butler\obj\Debug\net6.0\refint\butler.dll
+C:\Users\erenk\Desktop\Eren\project\ytm\butler\butler\obj\Debug\net6.0\butler.pdb
+C:\Users\erenk\Desktop\Eren\project\ytm\butler\butler\obj\Debug\net6.0\butler.genruntimeconfig.cache
+C:\Users\erenk\Desktop\Eren\project\ytm\butler\butler\obj\Debug\net6.0\ref\butler.dll
